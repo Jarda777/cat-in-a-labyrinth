@@ -13,5 +13,5 @@ You will need (see requirements):
 4. Run the bludiste.py file.
 
 
-
+Source of graphics: https://opengameart.org/content/denzis-public-domain-art
 
