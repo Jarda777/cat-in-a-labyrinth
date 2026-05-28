@@ -15,3 +15,4 @@ You will need (see requirements):
 
 Source of graphics: https://opengameart.org/content/denzis-public-domain-art
 
+See: printscreen-from-the-game.png
